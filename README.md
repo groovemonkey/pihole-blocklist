@@ -9,6 +9,5 @@ This is a brand-new, experimental blocklist. As a starting point, I'm using the 
 
 1. Log into your pi-hole web frontend.
 1. Navigate to the blocklists page (http://PI_HOLE_IP/admin/groups-adlists.php)
-1. TODO link
-
+1. Add `https://raw.githubusercontent.com/groovemonkey/pihole-blocklist/main/blocklist`
 
